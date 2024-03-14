@@ -1,6 +1,6 @@
-# DMF: Dynamics of Memory Formation Lab
+# Dynamics of Memory Formation (DMF)
 
-[![DMF badge](https://img.shields.io/badge/DMF-website-badge?color=blue&link=https%3A%2F%2Fbrainvitge.org%2Fgroups%2Fmemory_formation%2F)](https://brainvitge.org/groups/memory_formation/)
+<!-- [![DMF badge](https://img.shields.io/badge/DMF-website-badge?color=blue&link=https%3A%2F%2Fbrainvitge.org%2Fgroups%2Fmemory_formation%2F)](https://brainvitge.org/groups/memory_formation/) -->
 
 
 Welcome to the GitHub organization of the **Dynamics of Memory Formation Lab**. 
@@ -21,4 +21,15 @@ Our research also includes studies on neurological patients, especially those wi
 Our work uses a range of methods, from observing behavior and physiological responses to advanced brain imaging technologies. 
 Our objective is to decode the cognitive and neural bases of episodic memory, aiming to contribute valuable insights into this complex field.
 
-👉 [More Information & People](https://brainvitge.org/groups/memory_formation/)
+## Related links
+
+- [More information & people](https://brainvitge.org/groups/memory_formation/) <br/>
+- [Contact us](https://brainvitge.org/contact/)
+
+
+---
+
+<br/>
+<a href="https://web.ub.edu/" style="margin: 3px"><img src="../logos/ub.svg" alt="logo UB" height=80/></a>
+<a href="https://idibell.cat/" style="margin: 3px"><img src="../logos/idibell.svg" alt="logo IDI BELL" height=80/></a>
+<a href="https://brainvitge.org/" style="margin: 3px"><img src="../logos/brainvitge.png" alt="logo brainvitge" height=80/></a>
