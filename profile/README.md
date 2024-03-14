@@ -30,6 +30,6 @@ Our objective is to decode the cognitive and neural bases of episodic memory, ai
 ---
 
 <br/>
-<a href="https://web.ub.edu/" style="margin: 3px"><img src="../logos/ub.svg" alt="logo UB" height=80/></a>
-<a href="https://idibell.cat/" style="margin: 3px"><img src="../logos/idibell.svg" alt="logo IDI BELL" height=80/></a>
-<a href="https://brainvitge.org/" style="margin: 3px"><img src="../logos/brainvitge.png" alt="logo brainvitge" height=80/></a>
+<a href="https://web.ub.edu/" style="margin: 3px"><img src="https://raw.githubusercontent.com/memory-formation/.github/main/logos/ub.svg" alt="logo UB" height=80/></a>
+<a href="https://idibell.cat/" style="margin: 3px"><img src="https://raw.githubusercontent.com/memory-formation/.github/main/logos/idibell.svg" alt="logo IDI BELL" height=80/></a>
+<a href="https://brainvitge.org/" style="margin: 3px"><img src="https://raw.githubusercontent.com/memory-formation/.github/main/logos/brainvitge.png" alt="logo brainvitge" height=80/></a>
